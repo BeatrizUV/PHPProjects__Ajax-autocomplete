@@ -1,0 +1,30 @@
+.show {
+	display: block;
+}
+
+.hide {
+	display: none;
+}
+
+select::-webkit-scrollbar {
+	display: none;
+}
+
+#loading img {
+	width: 20px;
+	height: 20px;
+	margin-left: -25px;
+}
+
+#title {
+	width: 200px;
+}
+
+#list {
+	width: 205px;
+}
+
+select option:hover {
+	color: white;
+	background-color: royalblue;
+}
