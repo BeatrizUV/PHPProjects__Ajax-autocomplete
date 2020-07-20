@@ -1,2 +1,2 @@
 # tools__ajax-autocomplete
-Campo con autocompletar mediante petición AJAX a recurso externo.
+Autocomplete field with Ajax request to external resource.
